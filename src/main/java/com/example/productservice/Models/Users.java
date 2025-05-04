@@ -1,4 +1,4 @@
-package Models;
+package com.example.productservice.Models;
 
 public class Users {
     public int userId;
